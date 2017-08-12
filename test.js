@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import applicators from "./source"
+import arrayify from "./source"
 
 test(({same, end}) => {
   same(
