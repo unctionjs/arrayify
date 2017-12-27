@@ -52,7 +52,7 @@
     "tap": "11.0.0"
   },
   "dependencies": {
-    "@unction/isarray": "3.0.0"
+    "@unction/isarray": "4.0.0"
   },
   "nyc": {
     "require": [
