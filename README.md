@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> any => [any] | Array<any>
+> ValueType => [ValueType] | ArrayType
 
 Takes a value and turns it into an array of that value, unless the value is already an array.
 
