@@ -1,9 +1,8 @@
-import isArray from "@unction/isarray"
-
-export default function arrayify (value: any): [any] | Array<any> {
+import isArray from "@unction/isarray";
+export default function arrayify(value) {
   if (isArray(value)) {
-    return value
+    return value;
   }
 
-  return [value]
+  return [value];
 }
