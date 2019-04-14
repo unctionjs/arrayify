@@ -1,5 +1,5 @@
 import isArray from "@unction/isarray";
-export default function arrayify(value) {
+export default function arrayify (value) {
   if (isArray(value)) {
     return value;
   }

@@ -1,22 +1,22 @@
 /* eslint-disable flowtype/require-return-type */
-import {test} from "tap"
+import {test} from "tap";
 
-import arrayify from "./index"
+import arrayify from "./index";
 
 test(({same, end}) => {
   same(
     arrayify("a"),
     ["a"]
-  )
+  );
 
-  end()
-})
+  end();
+});
 
 test(({same, end}) => {
   same(
     arrayify(["a"]),
     ["a"]
-  )
+  );
 
-  end()
-})
+  end();
+});
