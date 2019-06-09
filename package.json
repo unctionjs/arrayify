@@ -51,7 +51,7 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/isarray": "5.3.0",
+    "@unction/isarray": "5.4.0",
     "core-js": "3.0.1"
   },
   "nyc": {
