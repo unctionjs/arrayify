@@ -1,6 +1,6 @@
 {
   "name": "@unction/arrayify",
-  "version": "7.4.0",
+  "version": "7.5.0",
   "description": "Takes a value and turns it into an array of that value, unless the value is already an array",
   "keywords": [
     "unction",
