@@ -1,7 +1,7 @@
-/* eslint-disable flowtype/require-return-type */
+
 import {test} from "tap";
 
-import arrayify from "./index";
+import arrayify from "./";
 
 test(({same, end}) => {
   same(
