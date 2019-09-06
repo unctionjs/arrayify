@@ -1,10 +1,10 @@
 
 import arrayify from "./index";
 
-test(() => {
+test("works", () => {
   expect(arrayify("a")).toEqual(["a"]);
 });
 
-test(() => {
+test("works", () => {
   expect(arrayify(["a"])).toEqual(["a"]);
 });
