@@ -64,6 +64,6 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@unction/isarray": "5.11.0"
+    "@unction/isarray": "^5.12.0"
   }
 }
